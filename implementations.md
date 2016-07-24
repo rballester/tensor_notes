@@ -18,3 +18,4 @@
 | [GeomCG](http://anchp.epfl.ch/geomCG) | [Paper](http://sma.epfl.ch/~anchpcommon/publications/tensorcompletion.pdf) | 2013 | MATLAB | Tucker | Tensor completion
 | [TDALAB](http://bsp.brain.riken.jp/TDALAB/) | [Manual](http://bsp.brain.riken.jp/~zhougx/tdalab/tdalab_guide.pdf) | 2012 | MATLAB | CP; Tucker | Dense compression
 | [FSTD](web.fi.uba.ar/~ccaiafa/Code/FSTD1_package.rar) | [Paper](http://ac.els-cdn.com/S0024379510001394/1-s2.0-S0024379510001394-main.pdf?_tid=2b4511cc-51c3-11e6-8551-00000aab0f01&acdnat=1469381116_ac0c8c104651f51a54c0664b7b9466cf) | 2010 | MATLAB | Tucker | Adaptive sampling
+| [Cross3D (variant)](http://spring.inm.ras.ru/osel/download/3d.tgz) | [Paper](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=5) | 2008 | MATLAB | Tucker | Adaptive sampling
