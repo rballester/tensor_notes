@@ -5,8 +5,8 @@
 | [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2016 | Python | Tucker | Dense/sparse compression
 | [vmmlib-tensor](https://github.com/rballester/vmmlib-tensor) | - | 2016 | C++ | Tucker | Dense compression
 | [SPLATT](http://shaden.io/splatt.html) | [Slides](http://www.shaden.io/pdf/2015-Smith-SPLATT-slides.pdf) | 2016 | C++; MATLAB | CP | Sparse compression
-| [Tensorlab](http://www.tensorlab.net/) | [User guide](ftp.esat.kuleuven.ac.be/pub/stadius/nvervliet/tensorlab3.0.pdf) | 2016 | MATLAB | CP; Tucker; BTD; advanced variants | Dense and sparse compression; tensor completion
-| [tucker_opt](www.lair.irb.hr/ikopriva/Data/PhD_Students/mfilipovic/tucker_low_rank_completion_codes.zip) | [Paper](http://www.lair.irb.hr/ikopriva/Data/PhD_Students/mfilipovic/tc_paper.pdf) | 2015 | MATLAB | Tucker | Tensor completion
+| [Tensorlab](http://www.tensorlab.net/) | [Documentation](http://www.tensorlab.net/doc/) | 2016 | MATLAB | CP; Tucker; BTD; advanced variants | Dense and sparse compression; tensor completion
+| [tucker_opt](http://www.lair.irb.hr/ikopriva/Data/PhD_Students/mfilipovic/tucker_low_rank_completion_codes.zip) | [Paper](http://www.lair.irb.hr/ikopriva/Data/PhD_Students/mfilipovic/tc_paper.pdf) | 2015 | MATLAB | Tucker | Tensor completion
 | [NTFLib](https://github.com/stitchfix/NTFLib) | - | 2015 | Python | NTF | Sparse compression
 | [vmmlib](https://github.com/VMML/vmmlib) | [vmmlib classes](https://files.ifi.uzh.ch/vmml/ta_tutorial/vmmlib_ta_classes.pdf) | 2015 | C++ | CP; Tucker | Dense compression
 | [scikit-tensor](https://github.com/mnick/scikit-tensor) | - | 2015 | Python | CP; Tucker; RESCAL; DEDICOM; INDSCAL | Dense/sparse compression
