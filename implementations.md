@@ -6,7 +6,7 @@ A growing list of publicly available software to decompose tensors in various fo
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [ttpy](https://github.com/oseledets/ttpy) | [Paper 1](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28), [2](http://www.mat.uniroma2.it/~tvmsscho/papers/Tyrtyshnikov5.pdf) | 2016 | Python | TT | Dense compression; adaptive sampling
 | [TT-Toolbox](https://github.com/oseledets/TT-Toolbox) | (see above) | 2016 | MATLAB | TT | Dense compression; adaptive sampling
-| [TTeMPS](http://anchp.epfl.ch/TTeMPS) | [PhD Thesis](https://infoscience.epfl.ch/record/217938) | 2016 | MATLAB | TT | Dense compression
+| [TTeMPS](http://anchp.epfl.ch/TTeMPS) | [PhD Thesis](https://infoscience.epfl.ch/record/217938) | 2016 | MATLAB | TT | Tensor completion
 | [C++ TT](https://bitbucket.org/dzheltkov/c-tt-library) | - | 2016 | C++ | TT | Dense compression; adaptive sampling
 | [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2016 | Python | Tucker | Dense/sparse compression
 | [vmmlib-tensor](https://github.com/rballester/vmmlib-tensor) | - | 2016 | C++ | Tucker | Dense compression
