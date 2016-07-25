@@ -1,6 +1,6 @@
 # Public Implementations
 
-A growing list of publicly available software to decompose tensors in various formats, sorted by update year.
+A growing list of publicly available software to produce tensor decompositions in various formats, sorted by update year.
 
 | Link |  Paper/manual | Last Update | Language | Tensor Format(s) | Type
 |:--:|:--:|:--:|:--:|:--:|:--:|
