@@ -8,7 +8,7 @@ A growing list of publicly available software to produce tensor decompositions i
 | [TT-Toolbox](https://github.com/oseledets/TT-Toolbox) | (see above) | 2016 | MATLAB | TT | Dense compression; adaptive sampling
 | [TTeMPS](http://anchp.epfl.ch/TTeMPS) | [PhD Thesis](https://infoscience.epfl.ch/record/217938) | 2016 | MATLAB | TT | Tensor completion
 | [C++ TT](https://bitbucket.org/dzheltkov/c-tt-library) | - | 2016 | C++ | TT | Dense compression; adaptive sampling
-| [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2016 | Python | Tucker | Dense/sparse compression
+| [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2016 | Python | Tucker | Sparse compression
 | [vmmlib-tensor](https://github.com/rballester/vmmlib-tensor) | - | 2016 | C++ | Tucker | Dense compression
 | [SPLATT](http://shaden.io/splatt.html) | [Slides](http://www.shaden.io/pdf/2015-Smith-SPLATT-slides.pdf) | 2016 | C++; MATLAB | CP | Sparse compression
 | [Tensorlab](http://www.tensorlab.net/) | [Documentation](http://www.tensorlab.net/doc/) | 2016 | MATLAB | CP; Tucker; BTD; advanced variants | Dense and sparse compression; tensor completion; adaptive sampling
