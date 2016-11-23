@@ -11,7 +11,7 @@ A growing list of publicly available software to produce tensor decompositions i
 | [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2016 | Python | Tucker | Sparse compression
 | [vmmlib-tensor](https://github.com/rballester/vmmlib-tensor) | - | 2016 | C++ | Tucker | Dense compression
 | [SPLATT](http://shaden.io/splatt.html) | [Slides](http://www.shaden.io/pdf/2015-Smith-SPLATT-slides.pdf) | 2016 | C++; MATLAB | CP | Sparse compression
-| [Tensorlab](http://www.tensorlab.net/) | [Documentation](http://www.tensorlab.net/doc/) | 2016 | MATLAB | CP; Tucker; BTD; advanced variants | Dense and sparse compression; tensor completion; adaptive sampling
+| [Tensorlab](http://www.tensorlab.net/) | [Documentation](http://www.tensorlab.net/doc/) | 2016 | MATLAB | CP; Tucker; BTD; advanced variants | Dense and sparse compression (with various constraints); tensor completion; adaptive sampling
 | [Tensorbox](http://www.bsp.brain.riken.jp/~phan/index.html#tensorbox) | [Website](http://www.bsp.brain.riken.jp/~phan/) | 2015 | MATLAB | CP, Tucker and variants | Dense compression (with various constraints)
 | [tucker_opt](http://www.lair.irb.hr/ikopriva/Data/PhD_Students/mfilipovic/tucker_low_rank_completion_codes.zip) | [Paper](http://www.lair.irb.hr/ikopriva/Data/PhD_Students/mfilipovic/tc_paper.pdf) | 2015 | MATLAB | Tucker | Tensor completion
 | [NTFLib](https://github.com/stitchfix/NTFLib) | - | 2015 | Python | NTF | Sparse compression
@@ -27,4 +27,4 @@ A growing list of publicly available software to produce tensor decompositions i
 | [TDALAB](http://bsp.brain.riken.jp/TDALAB/) | [Manual](http://bsp.brain.riken.jp/~zhougx/tdalab/tdalab_guide.pdf) | 2013 | MATLAB | CP; Tucker | Dense compression
 | [FSTD](web.fi.uba.ar/~ccaiafa/Code/FSTD1_package.rar) | [Paper](http://ac.els-cdn.com/S0024379510001394/1-s2.0-S0024379510001394-main.pdf?_tid=2b4511cc-51c3-11e6-8551-00000aab0f01&acdnat=1469381116_ac0c8c104651f51a54c0664b7b9466cf) | 2010 | MATLAB | Tucker | Adaptive sampling
 | [Cross3D (variant)](http://spring.inm.ras.ru/osel/download/3d.tgz) | [Paper](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=5) | 2008 | MATLAB | Tucker | Adaptive sampling
-| [N-way Toolbox](http://www.models.life.ku.dk/nwaytoolbox) | [Paper](http://www.models.life.ku.dk/sites/default/files/TheNwayToolboxforMATLAB.pdf) | 2006 | MATLAB | CP, Tucker | Sparse and dense compression
+| [N-way Toolbox](http://www.models.life.ku.dk/nwaytoolbox) | [Paper](http://www.models.life.ku.dk/sites/default/files/TheNwayToolboxforMATLAB.pdf) | 2006 | MATLAB | CP, Tucker | Dense compression (optionally with missing values)
