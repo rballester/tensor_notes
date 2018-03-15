@@ -1,4 +1,4 @@
-# Public Implementations
+# Tensor Decomposition Implementations
 
 A growing list of publicly available software to produce tensor decompositions in various formats, sorted by update year.
 
