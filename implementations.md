@@ -4,6 +4,7 @@ A growing list of publicly available software to produce tensor decompositions i
 
 | Link |  Paper/manual | Updated/released | Language | Tensor Format(s) | Type
 |:--:|:--:|:--:|:--:|:--:|:--:|
+| [ttrecipes](https://github.com/rballester/ttrecipes) | - | 2018 | Python | TT | Compression; completion
 | [t3f](https://github.com/Bihaqo/t3f) | [Paper](https://arxiv.org/abs/1801.01928) | 2018 | Python | TT | Regression; deep learning
 | [TensorLy](https://tensorly.github.io/stable/index.html) | [Paper](https://arxiv.org/abs/1610.09555) | 2018 | Python | Cp; Tucker | Tensor regression
 | [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2018 | Python | Tucker | Sparse compression
