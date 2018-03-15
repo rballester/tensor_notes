@@ -8,12 +8,12 @@ A growing list of publicly available software to produce tensor decompositions i
 | [TensorLy](https://tensorly.github.io/stable/index.html) | [Paper](https://arxiv.org/abs/1610.09555) | 2018 | Python | Cp; Tucker | Tensor regression
 | [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2018 | Python | Tucker | Sparse compression
 | [C++ TT](https://bitbucket.org/dzheltkov/c-tt-library) | - | 2017 | C++ | TT | Dense compression; adaptive sampling
-| [Tensorlab](http://www.tensorlab.net/) | [Documentation](http://www.tensorlab.net/doc/) | 2016 | MATLAB | CP; Tucker; BTD; TT; structured variants | Dense and sparse compression (with optional constraints); tensor completion; adaptive sampling
 | [ttpy](https://github.com/oseledets/ttpy) | [Paper 1](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28), [2](http://www.mat.uniroma2.it/~tvmsscho/papers/Tyrtyshnikov5.pdf) | 2017 | Python | TT | Dense compression; adaptive sampling
 | [Tucker3D](https://github.com/rakhuba/tucker3d) | [Paper](http://arxiv.org/pdf/1402.5649.pdf) | 2017 | Python | Tucker | Adaptive sampling
 | [tensorlib](https://github.com/tensorlib/tensorlib) | [Documentation](http://tensorlib.github.io/) | 2017 | Python | CP; Tucker | Dense compression
 | [TT-Toolbox](https://github.com/oseledets/TT-Toolbox) | (see above) | 2017 | MATLAB | TT | Dense compression; adaptive sampling
 | [Tensor Toolbox](https://pypi.python.org/pypi/TensorToolbox/) | [Paper](http://epubs.siam.org/doi/pdf/10.1137/15M1036919) | 2017 | Python | TT | Dense compression; adaptive sampling
+| [Tensorlab](http://www.tensorlab.net/) | [Documentation](http://www.tensorlab.net/doc/) | 2016 | MATLAB | CP; Tucker; BTD; TT; structured variants | Dense and sparse compression (with optional constraints); tensor completion; adaptive sampling
 | [scikit-tensor](https://github.com/mnick/scikit-tensor) | - | 2016 | Python | CP; Tucker; RESCAL; DEDICOM; INDSCAL | Dense/sparse compression
 | [TTeMPS](http://anchp.epfl.ch/TTeMPS) | [PhD Thesis](https://infoscience.epfl.ch/record/217938) | 2016 | MATLAB | TT | Tensor completion
 | [vmmlib-tensor](https://github.com/rballester/vmmlib-tensor) | - | 2016 | C++ | Tucker | Dense compression
