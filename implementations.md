@@ -6,7 +6,7 @@ A growing list of publicly available software to produce tensor decompositions i
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [ttrecipes](https://github.com/rballester/ttrecipes) | - | 2018 | Python | TT | Compression; completion
 | [t3f](https://github.com/Bihaqo/t3f) | [Paper](https://arxiv.org/abs/1801.01928) | 2018 | Python | TT | Regression; deep learning
-| [TensorLy](https://tensorly.github.io/stable/index.html) | [Paper](https://arxiv.org/abs/1610.09555) | 2018 | Python | CP; Tucker | Tensor regression
+| [TensorLy](https://tensorly.github.io/stable/index.html) | [Paper](https://arxiv.org/abs/1610.09555) | 2018 | Python | CP; Tucker | Tensor regression; deep learning
 | [Polara](https://github.com/Evfro/polara) | [Paper](https://arxiv.org/abs/1607.04228) | 2018 | Python | Tucker | Sparse compression
 | [C++ TT](https://bitbucket.org/dzheltkov/c-tt-library) | - | 2017 | C++ | TT | Dense compression; adaptive sampling
 | [ttpy](https://github.com/oseledets/ttpy) | [Paper 1](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28), [2](http://www.mat.uniroma2.it/~tvmsscho/papers/Tyrtyshnikov5.pdf) | 2017 | Python | TT | Dense compression; adaptive sampling
