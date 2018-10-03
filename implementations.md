@@ -4,7 +4,7 @@ A growing list of publicly available software to produce tensor decompositions i
 
 | Link |  Paper/manual | Updated/released | Language | Tensor Format(s) | Type
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [tntorch](https://github.com/rballester/tntorch) | - | 2018 | Python | TT, Tucker, CP | Compression; learning; sensitivity
+| [tntorch](https://github.com/rballester/tntorch) | [Notebooks](https://github.com/rballester/tntorch/tree/master/tutorials) | 2018 | Python | TT, Tucker, CP | Compression; learning; sensitivity
 | [ttrecipes](https://github.com/rballester/ttrecipes) | - | 2018 | Python | TT | Compression; visualization; sensitivity
 | [C3](https://github.com/goroda/Compressed-Continuous-Computation) | - | 2018 | C | TT | Regression/completion; sensitivity; adaptive sampling
 | [t3f](https://github.com/Bihaqo/t3f) | [Paper](https://arxiv.org/abs/1801.01928) | 2018 | Python | TT | Regression; deep learning
